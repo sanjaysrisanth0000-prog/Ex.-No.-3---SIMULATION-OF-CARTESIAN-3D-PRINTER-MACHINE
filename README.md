@@ -62,7 +62,7 @@
 <img width="935" height="587" alt="image" src="https://github.com/user-attachments/assets/85da9f28-a1d1-4a0c-bf0e-e013e24e652b" />
 
 
-### Name: SANJAY SRISANTH
+### Name: SANJAY SRISANTH V
 ### Register Number: 212225040375
 
 ## Result: 
